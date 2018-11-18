@@ -1,2 +1,2 @@
 # alien_invasion
-学习python编程的一个例子
+学习《python编程》的一个例子
